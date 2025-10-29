@@ -1,21 +1,17 @@
 # 👋 Hello, I'm Idriss Elatrech-Kratima!
-
-🚀 I'm a **Software Engineering** student at **ESIEA**, 
-I thrive on challenges, love solving problems, and enjoy working on ambitious projects with cutting-edge technologies.  
-
-Currently, I am in my **4th year of engineering school**, actively seeking a **4-month internship starting April 2025**.  
+  
 
 ## 🌍 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idrisselatrech/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elatrech-idriss)  
 📧 **Email:** elatrech-krati.esiea.fr  
-📞 **Phone:** 0612288970  
+📞 **Phone:** 0622942603  
 
 ---
 
 ## 🎓 Education
 ### **🎓 ESIEA - Graduate School of Engineering, Paris, France** *(2021 - 2026)*
-- **Specialization:** Software Engineering & Data Science
+- **Specialization:**  Data Science
 - **Currently:** 4th-year engineering student
 
 ### **🌏 International Semester - King Mongkut’s University of Technology, Thailand** *(2024)*
