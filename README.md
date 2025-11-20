@@ -56,12 +56,6 @@
 
 ---
 
-## 💼 Work Experience
-### **📌 Night Order Picker - Rungis Market, France** *(July - September 2024)*
-- Managed large-scale fruit and vegetable orders for top restaurants in Paris.
-
-### **📌 Accounting Assistant (Intern) - Pikem Service, Paris** *(2022)*
-- Assisted in financial data entry and document processing.
 
 ---
 
