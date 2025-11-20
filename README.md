@@ -95,5 +95,3 @@
 
 ---
 
-🎯 **Looking for opportunities in**: **Software Development, Data Science, Networking, or DevOps.**  
-If you're hiring or have an interesting project, let's connect! 🚀
