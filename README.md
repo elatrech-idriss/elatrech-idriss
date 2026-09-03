@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idrisselatrech/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elatrech-idriss)  
 📧 **Email:** elatrech-krati.esiea.fr  
-📞 **Phone:** 0622942603  
+
 
 ---
 
